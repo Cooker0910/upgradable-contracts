@@ -8,7 +8,7 @@ export default function QuickStart() {
   const { runContractFunction, isLoading } = useWeb3Contract({
     functionName: "mint",
     abi,
-    contractAddress: "0xc44a27657627A89D522F98c04C9Fa820484Af46A",
+    contractAddress: "0x2175b63A2d43e5Ce1fbc5D2ad1aa65e8Ae29D12B",
     params: {
       account,
       id: 0,

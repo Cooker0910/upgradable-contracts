@@ -2,7 +2,7 @@
   "manifestVersion": "3.2",
   "proxies": [
     {
-      "address": "0xc44a27657627A89D522F98c04C9Fa820484Af46A",
+      "address": "0x2175b63A2d43e5Ce1fbc5D2ad1aa65e8Ae29D12B",
       "txHash": "0x384ca4cc1e382d3cfe483b29e4e0b27deba65bba0c14b1221c1b194ecd1a4e26",
       "kind": "uups"
     },
