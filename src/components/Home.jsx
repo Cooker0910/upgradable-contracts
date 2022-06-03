@@ -26,8 +26,6 @@ export default function QuickStart() {
           flexDirection: "column",
           alignItems: "center",
           textAlign: "center",
-          height: 900,
-          backgroundColor: "grey"
         }}
       >
         <Typography.Title level={3}>NFT Minter</Typography.Title>
