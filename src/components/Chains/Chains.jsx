@@ -17,7 +17,6 @@ const styles = {
   button: {
     border: "2px solid rgb(231, 234, 243)",
     borderRadius: "12px",
-    bordeBottom: "unset"
   },
 };
 
